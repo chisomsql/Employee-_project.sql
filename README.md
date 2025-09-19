@@ -1,7 +1,6 @@
 # Employee-_project.sql
 My second SQL project — Employee database schema with departments, jobs, and employees.
 # Employee Project (SQL)
-
 This is my second SQL project.  
 I designed a database called **employee_project** to manage employees, jobs, and departments.
 
@@ -9,6 +8,13 @@ I designed a database called **employee_project** to manage employees, jobs, and
 - Create database and tables
 - Define relationships (Foreign Keys)
 - Handle employee statuses (active, laid-off, resigned, retired)
+
+## Technologies
+- MySQL
+
+## How to Run
+1. Clone the repo
+2. Run `employee_project.sql` in MySQL Workbench or any SQL client
 
 ## Technologies
 - MySQL
